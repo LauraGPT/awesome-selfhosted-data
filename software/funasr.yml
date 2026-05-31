@@ -1,0 +1,11 @@
+name: FunASR
+website_url: https://www.funasr.com
+source_code_url: https://github.com/modelscope/FunASR
+description: Industrial-grade speech recognition server supporting 50+ languages with OpenAI-compatible API, VAD, punctuation restoration, and speaker diarization (alternative to OpenAI Whisper API).
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
